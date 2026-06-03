@@ -61,3 +61,17 @@ These visualizations were used to identify adoption trends, correlations, and in
 2. Build interactive dashboards.
 3. Forecast industry-specific growth.
 4. Develop AI maturity scoring models.
+
+## Technologies Used
+- Python
+- Google Colab
+- Matplotlib
+- NumPy
+- Statistical Analysis
+- ANOVA Testing
+
+## Repository Contents
+- AI_Adoption_Analysis.ipynb
+- ai_adoption_data.csv
+- README.md
+- AI ANALYSE.pdf
